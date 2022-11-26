@@ -104,16 +104,19 @@
 
  .box1{
    width: 90%;
+   margin: 0 auto;
    margin-bottom: 20px;
  }
 
  .box2{
    width: 90%;
+   margin: 0 auto;
    margin-bottom: 20px;
  }
 
  .box3{
    width: 90%;
+   margin: 0 auto;
    margin-bottom: 50px;
  }
 }
